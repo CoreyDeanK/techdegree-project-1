@@ -157,9 +157,7 @@ a.twitter {
 a.instagram {
   background-image: url("images/instagram.png");
 }
-a.github {
-  background-image: url("images/github.png");
-}
+
 a.social:hover {
   opacity: 1;
 }
